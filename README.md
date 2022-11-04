@@ -1,1 +1,1 @@
-Développement d'une calculatrice en JavaScript (Projet avec Doranco) 
+Projet avec Doranco - Développement d'une calculatrice en JavaScript 
